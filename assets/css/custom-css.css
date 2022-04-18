@@ -1,0 +1,129 @@
+/* === Nav Style === */
+.header-img {
+  height: 100px;
+}
+
+.navbar ul {
+  list-style: none;
+}
+
+.navbar li {
+  padding-left: 30px;
+  text-decoration: none;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+  transition: all 0.3s;
+}
+
+.navbar a:hover {
+  color: orangered;
+}
+
+/* === Masthead Style === */
+.masthead {
+  height: 500px;
+  text-align: center;
+  padding: 20px;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+
+.masthead-title {
+  margin-top: 200px;
+  color: orangered;
+  filter: drop-shadow(3px 3px 0px rgb(255, 255, 255));
+  font-weight: 800;
+  font-size: 75px;
+}
+
+/* Row One Style */
+.row-one-section {
+  margin-bottom: 100px;
+}
+
+.row-one-img {
+  height: 400px;
+  background-size: cover;
+}
+
+.row-one-title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.row_one_text {
+  margin: 100px;
+}
+
+.two_btn {
+  margin: 100px;
+}
+
+.product-row {
+  margin: 100px;
+}
+
+.card {
+  text-align: center;
+}
+
+.featured-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* === About Page Style === */
+.about-row-title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* === Contact Page Style === */
+.form-group {
+  margin-bottom: 25px;
+}
+
+.submit-contact-btn {
+  width: 200px;
+  height: 50px;
+  font-weight: 400;
+  font-size: 20px;
+  color: white;
+}
+
+.submit-contact-btn:hover {
+  background-color: orangered;
+  color: white;
+}
+
+.blog-col {
+  margin-top: 50px;
+}
+
+/* === Shop Page Style === */
+.entry-content {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.entry-title {
+  font-size: 80px;
+}
+
+/* === Single Product Page === */
+.entry-title {
+  font-size: 10px;
+}
+
+.woocommerce-Price-amount {
+  font-size: 24px;
+}
+
+footer {
+  margin-top: 50px;
+}
